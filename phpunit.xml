@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit bootstrap="tests/bootstrap.php" colors="true">
+	<testsuite name="PHPLinq">
+		<directory suffix=".php">./tests/</directory>
+	</testsuite>
+	<filter>
+		
+	</filter>
+	<logging>
+	
+	</logging>
+</phpunit>
